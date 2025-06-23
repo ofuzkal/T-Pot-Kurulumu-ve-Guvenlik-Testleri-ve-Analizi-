@@ -23,11 +23,8 @@ Her türlü geri bildirim veya sorunuz için benimle iletişime geçebilirsiniz.
 
 **Saygılarımla,**  
 **Ömer Faruk Uzkal**
-
-
-<hr>
-omerfarukuzkal@gmail.com  <br>
-<br>
-[LinkedIn Profilim](https://www.linkedin.com/in/omerfarukuzkal)
 <hr>
 
+**İletişim**<br>
+[omerfarukuzkal@gmail.com](mailto:omerfarukuzkal@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omerfarukuzkal)
