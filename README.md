@@ -1,7 +1,7 @@
 <div style="font-family:Segoe UI,Arial,sans-serif; max-width: 700px; margin:auto; padding: 24px; border-radius:12px; border:1px solid #ececec; background: #f8f9fb;">
   <h2 style="color:#283593; font-size: 2em; font-weight:bold; margin-bottom: 0.5em;">Teşekkürler</h2>
   <p style="font-size:1.1em;">
-    <strong>"T-Pot Kurulumu ve Güvenlik Testleri: Nmap Taraması, DDoS, Brute Force Saldırıları ve SpiderFoot API Yönetimi"</strong> başlıklı raporumu okuduğunuz için <strong>teşekkür ederim</strong>.
+    <strong>"T-Pot Kurulumu ve Güvenlik Testleri: Nmap Taraması, DDoS, Brute Force Saldırıları, SpiderFoot API Yönetimi ve Kibana Üzerinden Analiz"</strong> başlıklı raporumu okuduğunuz için <strong>teşekkür ederim</strong>.
     <br>
     Bu çalışma, <em>İstanbul Gelişim Üniversitesi Siber Akademi</em> Bitirme Projesi kapsamında gerçekleştirilmiştir.
   </p>
